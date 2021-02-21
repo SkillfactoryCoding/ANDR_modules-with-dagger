@@ -1,0 +1,6 @@
+include ':mylibrary'
+include ':core'
+include ':core_impl'
+include ':core_api'
+include ':app'
+rootProject.name = "ModulesDagger"
